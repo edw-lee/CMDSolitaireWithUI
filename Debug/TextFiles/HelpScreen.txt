@@ -1,0 +1,43 @@
+Objective: 
+----------
+To win Solitaire, you must get all the cards onto the Foundation piles. 
+The Foundations are ordered by suit and rank, each Foundation has one 
+suit and you must put the cards onto them in the order 
+Ace 2 3 4 5 6 7 8 9 10 Jack Queen King. To get there, you can use the 
+moves described below.
+
+Piles:
+------
+The Stock: The pile of facedown cards in the upper left corner.
+The Waste: The faceup pile next to the Stock in the upper left corner.
+The Foundations: The four piles in the upper right corner.
+The Tableau: The seven piles that make up the main table.
+
+Moves:
+------
+1. Flip cards from the Stock onto the Waste.
+
+2. Move a card from the Waste onto the Foundations.
+
+3. Move a card from the Waste onto the Tableau.
+
+4. Move a card from a Foundation back onto the Tableau. 
+
+5. Move one or more cards from one Tableau pile to another pile with different coloured suit.
+
+6. You can move a Tableau card onto the Foundations.
+
+Score:
+------
+1. (+5) - Waste to Tableu
+2. (+10) - Waste to Foundation
+3. (+10) - Tableu to Foundation
+4. (+5) - Turn over Tableu card
+5. (-15) - Foundation to Tableu
+6. (-100) - Recycle Waste (showing deck from the beginning)
+7. (-2) - Every 30 seconds
+
+
+
+
+= TAB - back to main =

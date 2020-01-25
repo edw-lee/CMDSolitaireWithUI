@@ -1,0 +1,13 @@
+# Don't track content in this folder
+
+ipch/
+
+.vs/
+
+
+
+# Don't track file with these extension #
+
+#######################################
+
+*.sdf

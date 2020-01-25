@@ -1,0 +1,42 @@
+﻿Build started 24/4/2017 10:16:15 PM.
+     1>Project "D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Solitaire\Solitaire.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\".
+       InitializeBuildStatus:
+         Creating "Release\Solitaire.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\Programs\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>Main.cpp(10): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Main.cpp(57): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Main.cpp(99): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Main.cpp(189): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(130) : see declaration of 'kbhit'
+     1>Main.cpp(195): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Main.cpp(217): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(130) : see declaration of 'kbhit'
+     1>Main.cpp(227): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Main.cpp(291): warning C4244: 'argument' : conversion from 'double' to 'time_t', possible loss of data
+     1>Main.cpp(298): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Main.cpp(596): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 E:\Programs\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+       Link:
+         E:\Programs\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\Solitaire.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Solitaire.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\Solitaire.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\Solitaire.lib" /MACHINE:X86 Release\Main.obj
+         Generating code
+     1>d:\documents\personal\utar\degree\y1s1\intro to programming\project\solitaire\solitaire\main.cpp(1223): warning C4715: 'FindCollectorSlot' : not all control paths return a value
+         Finished generating code
+         Solitaire.vcxproj -> D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\Solitaire.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Release\Solitaire.exe;#1" /manifest Release\Solitaire.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Solitaire.unsuccessfulbuild".
+         Touching "Release\Solitaire.lastbuildstate".
+     1>Done Building Project "D:\Documents\Personal\UTAR\Degree\Y1S1\Intro to Programming\Project\Solitaire\Solitaire\Solitaire.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02

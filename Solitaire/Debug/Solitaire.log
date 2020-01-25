@@ -1,0 +1,23 @@
+﻿  Main.cpp
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(60,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(102,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(192,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : see declaration of 'kbhit'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(198,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(220,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : see declaration of 'kbhit'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(230,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(294,23): warning C4244: 'argument': conversion from 'double' to 'const time_t', possible loss of data
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(301,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(600,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : see declaration of 'getch'
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(1357,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(1357,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\Documents\GitHub\Solitaire\Solitaire\Main.cpp(1225): warning C4715: 'FindCollectorSlot': not all control paths return a value
+Main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Solitaire.vcxproj -> D:\Documents\GitHub\Solitaire\Debug\Solitaire.exe
