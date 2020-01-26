@@ -1,5 +1,6 @@
 # Command Line Solitaire with UI
 
+### Description
 A solitaire game that runs in command prompt written in C++.
 
 ### Background
